@@ -1,2 +1,1 @@
-# hello-world
-First default repository
+Dataquest guided projects
